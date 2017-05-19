@@ -3,6 +3,8 @@
 
 使用方法:
 
+#import "HBProgress.h"
+
 显示刷新框
 [HBProgress showInView:self.view status:@"正在加载"];
 

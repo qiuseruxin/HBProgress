@@ -1,10 +1,13 @@
 # HBProgressHUD
 一款屏幕刷新框  借鉴了FanProgress3D
 使用方法:
-显示刷新框\n
+
+显示刷新框
 [HBProgress showInView:self.view status:@"正在加载"];
+
 消失:
 [HBProgress dismiss];
+
 带文字消失:
 [HBProgress dismissWithStatus:@"连接失败,请检查您的网络" afterDelay:3.0];
 

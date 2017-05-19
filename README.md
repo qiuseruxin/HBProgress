@@ -1,7 +1,7 @@
 # HBProgressHUD
 一款屏幕刷新框  借鉴了FanProgress3D
 使用方法:
-显示刷新框
+显示刷新框\n
 [HBProgress showInView:self.view status:@"正在加载"];
 消失:
 [HBProgress dismiss];

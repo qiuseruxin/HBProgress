@@ -1,4 +1,4 @@
-# HBProgressHUD
+# HBProgress
 一款屏幕刷新框  借鉴了FanProgress3D
 
 使用方法:
